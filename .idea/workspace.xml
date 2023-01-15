@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd8b3b3-842d-4cfe-9ffd-af129cf5cd93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basis_proekt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitivVALUES/PRIMITIV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitivVALUES/Primitiv_.java" afterDir="false" />
-    </list>
+    <list default="true" id="ebd8b3b3-842d-4cfe-9ffd-af129cf5cd93" name="Changes" comment="hw11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +67,33 @@
       <option name="presentableId" value="Default" />
       <updated>1673739180532</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw1">
+      <created>1673806098407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673806098407</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw11">
+      <created>1673806132575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673806132575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hw11">
+      <created>1673806256892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673806256892</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw1" />
+    <MESSAGE value="hw11" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw11" />
   </component>
 </project>
